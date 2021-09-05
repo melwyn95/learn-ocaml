@@ -1,0 +1,64 @@
+# learn-ocaml
+Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
+## Introduction to Functional Programming (MOOC)
+- [ ] Integer Identifiers
+- [ ] String Identifiers
+- [ ] Simple Functions over Integers
+- [ ] Simple Functions over Strings
+- [x] Tetragon
+- [x] Enigma
+- [ ] Time on Planet Shadokus
+- [ ] Points and vectors
+- [ ] Searching for Strings in Arrays
+- [ ] Finding the Minimum
+- [ ] A Small Typed Database
+- [ ] First In First Out
+- [ ] Classic Functions Over Lists
+- [ ] Symbolic Manipulation of Arithmetic Expressions
+- [ ] Tries
+- [ ] Type Directed Programming
+- [ ] An Implementation of List with an Efficient Concatenation
+- [ ] Balanced Binary Trees
+- [ ] Using First Class Functions
+- [ ] Functions Returning Functions
+- [ ] Optimizing Partial Applications
+- [ ] A Small Arithmetic Interpreter
+- [ ] Using and Writing the Map Function
+- [ ] Optimising a Tree Traversal using Exceptions
+- [ ] Unraveling the Automatic Grader
+- [x] Printing Lists
+- [ ] Displaying a Filesystem Hierarchy
+- [ ] Printing with Loops
+- [ ] Producing Fine ASCII Art
+- [ ] Rotating the Contents of an Array
+- [ ] Implementing a Stack with an Array
+- [ ] Type Abstraction Using a Signature
+- [ ] Multisets
+- [ ] Fixing a module  signature
+- [ ] Char  Indexed  Hashtables
+## Advanced  Functional  Programming  by  François  Pottier
+- [ ] Alpha-Beta  Search
+- [ ] Recognizing  Anagrams
+- [ ] Breaking  a  Sort
+- [ ] Counting  trees
+- [ ] Enumerating  Trees
+- [ ] Generic  Sorting
+- [ ] Huffman  Compression
+- [ ] Infinite  Arrays
+- [ ] Leftist  heaps
+- [x] Merge  Sort
+- [ ] Implementing  Nondeterminism  with  Continuations
+- [ ] Implementing  Nondeterminism  as  an  Abstract  Machine
+- [ ] Implementing  Nondeterminism  with  Sequences
+- [ ] Parser  Combinators
+- [ ] Persistent  arrays
+- [ ] A  pretty-printer
+- [ ] Random  access  lists
+- [ ] A  SAT  solver
+- [ ] From  a  Spectre  to  a  Tree
+- [ ] Trees  in  Stereo  Vision
+- [ ] Symbolic  Sequences  as  Data
+- [ ] Symbolic  Sequences  as  Objects
+- [ ] Building  a  Game  Tree
+- [ ] Tree  Iterators
+- [ ] The  Union-Find  data  structure
