@@ -10,7 +10,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Time on Planet Shadokus
 - [ ] Points and vectors
 - [ ] Searching for Strings in Arrays
-- [ ] Finding the Minimum
+- [x] Finding the Minimum
 - [ ] A Small Typed Database
 - [ ] First In First Out
 - [ ] Classic Functions Over Lists
@@ -18,10 +18,10 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Tries
 - [ ] Type Directed Programming
 - [ ] An Implementation of List with an Efficient Concatenation
-- [ ] Balanced Binary Trees
+- [x] Balanced Binary Trees
 - [ ] Using First Class Functions
 - [ ] Functions Returning Functions
-- [ ] Optimizing Partial Applications
+- [x] Optimizing Partial Applications
 - [ ] A Small Arithmetic Interpreter
 - [ ] Using and Writing the Map Function
 - [ ] Optimising a Tree Traversal using Exceptions
