@@ -24,7 +24,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] Optimizing Partial Applications
 - [ ] A Small Arithmetic Interpreter
 - [ ] Using and Writing the Map Function
-- [ ] Optimising a Tree Traversal using Exceptions
+- [x] Optimising a Tree Traversal using Exceptions
 - [ ] Unraveling the Automatic Grader
 - [x] Printing Lists
 - [ ] Displaying a Filesystem Hierarchy
