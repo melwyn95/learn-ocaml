@@ -43,7 +43,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Counting  trees
 - [ ] Enumerating  Trees
 - [ ] Generic  Sorting
-- [ ] Huffman  Compression
+- [x] Huffman  Compression
 - [ ] Infinite  Arrays
 - [ ] Leftist  heaps
 - [x] Merge  Sort
