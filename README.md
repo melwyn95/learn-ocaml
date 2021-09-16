@@ -38,7 +38,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Char  Indexed  Hashtables
 ## Advanced  Functional  Programming  by  François  Pottier
 - [ ] Alpha-Beta  Search
-- [ ] Recognizing  Anagrams
+- [x] Recognizing  Anagrams
 - [ ] Breaking  a  Sort
 - [ ] Counting  trees
 - [ ] Enumerating  Trees
