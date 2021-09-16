@@ -29,7 +29,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] Printing Lists
 - [ ] Displaying a Filesystem Hierarchy
 - [ ] Printing with Loops
-- [ ] Producing Fine ASCII Art
+- [x] Producing Fine ASCII Art
 - [ ] Rotating the Contents of an Array
 - [ ] Implementing a Stack with an Array
 - [ ] Type Abstraction Using a Signature
