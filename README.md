@@ -30,7 +30,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Displaying a Filesystem Hierarchy
 - [ ] Printing with Loops
 - [x] Producing Fine ASCII Art
-- [ ] Rotating the Contents of an Array
+- [x] Rotating the Contents of an Array
 - [ ] Implementing a Stack with an Array
 - [ ] Type Abstraction Using a Signature
 - [ ] Multisets
