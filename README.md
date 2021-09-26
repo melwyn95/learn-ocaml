@@ -60,5 +60,5 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Symbolic  Sequences  as  Data
 - [ ] Symbolic  Sequences  as  Objects
 - [ ] Building  a  Game  Tree
-- [ ] Tree  Iterators
+- [x] Tree  Iterators
 - [ ] The  Union-Find  data  structure
