@@ -56,7 +56,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Random  access  lists
 - [ ] A  SAT  solver
 - [ ] From  a  Spectre  to  a  Tree
-- [ ] Trees  in  Stereo  Vision
+- [x] Trees  in  Stereo  Vision
 - [ ] Symbolic  Sequences  as  Data
 - [ ] Symbolic  Sequences  as  Objects
 - [ ] Building  a  Game  Tree
