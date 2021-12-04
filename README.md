@@ -53,7 +53,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Parser  Combinators
 - [ ] Persistent  arrays
 - [ ] A  pretty-printer
-- [ ] Random  access  lists
+- [x] Random  access  lists
 - [ ] A  SAT  solver
 - [ ] From  a  Spectre  to  a  Tree
 - [x] Trees  in  Stereo  Vision
