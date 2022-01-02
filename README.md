@@ -2,7 +2,7 @@
 Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 ## Introduction to Functional Programming (MOOC)
 - [x] Integer Identifiers
-- [ ] String Identifiers
+- [x] String Identifiers
 - [ ] Simple Functions over Integers
 - [ ] Simple Functions over Strings
 - [x] Tetragon
