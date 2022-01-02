@@ -44,7 +44,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Enumerating  Trees
 - [ ] Generic  Sorting
 - [x] Huffman  Compression
-- [ ] Infinite  Arrays
+- [x] Infinite  Arrays
 - [ ] Leftist  heaps
 - [x] Merge  Sort
 - [ ] Implementing  Nondeterminism  with  Continuations
