@@ -1,7 +1,7 @@
 # learn-ocaml
 Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 ## Introduction to Functional Programming (MOOC)
-- [ ] Integer Identifiers
+- [x] Integer Identifiers
 - [ ] String Identifiers
 - [ ] Simple Functions over Integers
 - [ ] Simple Functions over Strings
