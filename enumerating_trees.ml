@@ -41,11 +41,23 @@ let map (phi : 'a -> 'b) (enum : 'a enum) : 'b enum =
   
 (* Derived constructor functions. *)
 
-(* TO DO: Define [bit]. *)
+let bit = fun n -> 
+  if n = 0 
+  then Seq.sum (Seq.singleton 1) (Seq.singleton 0) 
+  else Seq.empty
 
 let list (elem : 'a enum) : 'a list enum =
-  (* TO DO: Complete this definition. *)
-  raise TODO
+  fun n ->
+    let elem_list = Seq.map (fun x -> [x]) (elem 0) in
+    let e = fix (fun f -> 
+        pay (fun n ->
+            if n = 0 then Seq.singleton []
+            else
+              Seq.map 
+                (fun (xs, ys) -> xs @ ys) 
+                (Seq.product (f n) elem_list)
+          )) in
+    e (n + 1)
 
 (* TO DO: Define [tree]. *)
 
