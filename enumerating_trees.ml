@@ -59,7 +59,18 @@ let list (elem : 'a enum) : 'a list enum =
           )) in
     e (n + 1)
 
-(* TO DO: Define [tree]. *)
+let tree : tree enum = 
+  fun n ->
+    fix (
+      fun f ->
+        pay (fun n ->
+            if n = 0 then Seq.singleton Leaf
+            else 
+              let p = product f f in
+              let m = map (fun (l,r) -> Node (l,r)) p in
+              m n
+          )
+    ) (2 * n + 1)
 
 let balanced_product (enum1 : 'a enum) (enum2 : 'b enum) : ('a * 'b) enum =
   (* TO DO: Complete this definition. *)
