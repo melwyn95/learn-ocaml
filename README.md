@@ -15,7 +15,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] First In First Out
 - [ ] Classic Functions Over Lists
 - [ ] Symbolic Manipulation of Arithmetic Expressions
-- [ ] Tries
+- [x] Tries
 - [ ] Type Directed Programming
 - [ ] An Implementation of List with an Efficient Concatenation
 - [x] Balanced Binary Trees
