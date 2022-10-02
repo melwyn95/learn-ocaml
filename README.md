@@ -27,7 +27,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] Optimising a Tree Traversal using Exceptions
 - [ ] Unraveling the Automatic Grader
 - [x] Printing Lists
-- [ ] Displaying a Filesystem Hierarchy
+- [x] Displaying a Filesystem Hierarchy
 - [ ] Printing with Loops
 - [x] Producing Fine ASCII Art
 - [x] Rotating the Contents of an Array
