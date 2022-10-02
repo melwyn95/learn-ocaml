@@ -34,7 +34,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] Implementing a Stack with an Array
 - [x] Type Abstraction Using a Signature
 - [x] Multisets
-- [ ] Fixing a module  signature
+- [x] Fixing a module  signature
 - [ ] Char  Indexed  Hashtables
 ## Advanced  Functional  Programming  by  François  Pottier
 - [ ] Alpha-Beta  Search
