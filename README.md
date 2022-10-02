@@ -14,7 +14,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] A Small Typed Database
 - [ ] First In First Out
 - [ ] Classic Functions Over Lists
-- [ ] Symbolic Manipulation of Arithmetic Expressions
+- [x] Symbolic Manipulation of Arithmetic Expressions
 - [x] Tries
 - [ ] Type Directed Programming
 - [x] An Implementation of List with an Efficient Concatenation
