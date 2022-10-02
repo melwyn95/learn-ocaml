@@ -7,7 +7,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] Simple Functions over Strings
 - [x] Tetragon
 - [x] Enigma
-- [ ] Time on Planet Shadokus
+- [x] Time on Planet Shadokus
 - [ ] Points and vectors
 - [ ] Searching for Strings in Arrays
 - [x] Finding the Minimum
