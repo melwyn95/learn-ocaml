@@ -4,7 +4,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] Integer Identifiers
 - [x] String Identifiers
 - [x] Simple Functions over Integers
-- [ ] Simple Functions over Strings
+- [x] Simple Functions over Strings
 - [x] Tetragon
 - [x] Enigma
 - [ ] Time on Planet Shadokus
