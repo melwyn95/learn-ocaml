@@ -17,7 +17,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Symbolic Manipulation of Arithmetic Expressions
 - [x] Tries
 - [ ] Type Directed Programming
-- [ ] An Implementation of List with an Efficient Concatenation
+- [x] An Implementation of List with an Efficient Concatenation
 - [x] Balanced Binary Trees
 - [ ] Using First Class Functions
 - [ ] Functions Returning Functions
