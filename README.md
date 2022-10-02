@@ -32,7 +32,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] Producing Fine ASCII Art
 - [x] Rotating the Contents of an Array
 - [x] Implementing a Stack with an Array
-- [ ] Type Abstraction Using a Signature
+- [x] Type Abstraction Using a Signature
 - [ ] Multisets
 - [ ] Fixing a module  signature
 - [ ] Char  Indexed  Hashtables
