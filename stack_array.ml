@@ -6,24 +6,17 @@ let create size =
   Array.make (size + 1) 0
 
 let push buf elt =
-  let size = buf.(0) in
-  if Array.length buf = size + 1
-  then raise Full
-  else 
-    begin
-      buf.(0) <- size + 1;
-      buf.(size + 1) <- elt;
-    end
-  
+  if buf.(0) = (Array.length buf - 1) then raise Full
+  else
+    let () = buf.(0) <- buf.(0) + 1 in
+    buf.(buf.(0)) <- elt 
+
 let append buf arr =
-  Array.fold_right (fun x _ -> push buf x) arr ()
+  Array.fold_right (fun x () -> push buf x) arr ()
 
 let pop buf =
-  let size = buf.(0) in
-  if size = 0
-  then raise Empty
-  else 
-    begin
-      buf.(0) <- size - 1;
-      buf.(size)
-    end
+  if buf.(0) = 0 then raise Empty
+  else
+    let x = buf.(buf.(0)) in
+    buf.(0) <- buf.(0) - 1;
+    x

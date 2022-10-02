@@ -31,7 +31,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Printing with Loops
 - [x] Producing Fine ASCII Art
 - [x] Rotating the Contents of an Array
-- [ ] Implementing a Stack with an Array
+- [x] Implementing a Stack with an Array
 - [ ] Type Abstraction Using a Signature
 - [ ] Multisets
 - [ ] Fixing a module  signature
