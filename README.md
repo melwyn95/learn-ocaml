@@ -13,7 +13,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] Finding the Minimum
 - [ ] A Small Typed Database
 - [x] First In First Out
-- [ ] Classic Functions Over Lists
+- [x] Classic Functions Over Lists
 - [x] Symbolic Manipulation of Arithmetic Expressions
 - [x] Tries
 - [ ] Type Directed Programming
