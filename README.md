@@ -25,7 +25,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [x] A Small Arithmetic Interpreter
 - [ ] Using and Writing the Map Function
 - [x] Optimising a Tree Traversal using Exceptions
-- [ ] Unraveling the Automatic Grader
+- [x] Unraveling the Automatic Grader
 - [x] Printing Lists
 - [x] Displaying a Filesystem Hierarchy
 - [ ] Printing with Loops
