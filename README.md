@@ -12,7 +12,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Searching for Strings in Arrays
 - [x] Finding the Minimum
 - [ ] A Small Typed Database
-- [ ] First In First Out
+- [x] First In First Out
 - [ ] Classic Functions Over Lists
 - [x] Symbolic Manipulation of Arithmetic Expressions
 - [x] Tries
