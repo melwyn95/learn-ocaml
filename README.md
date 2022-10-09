@@ -23,7 +23,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Functions Returning Functions
 - [x] Optimizing Partial Applications
 - [x] A Small Arithmetic Interpreter
-- [ ] Using and Writing the Map Function
+- [x] Using and Writing the Map Function
 - [x] Optimising a Tree Traversal using Exceptions
 - [x] Unraveling the Automatic Grader
 - [x] Printing Lists
