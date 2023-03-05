@@ -52,7 +52,7 @@ Learning OCaml by solving https://ocaml-sf.org/learn-ocaml-public/#
 - [ ] Implementing  Nondeterminism  with  Sequences
 - [ ] Parser  Combinators
 - [ ] Persistent  arrays
-- [ ] A  pretty-printer
+- [x] A  pretty-printer
 - [x] Random  access  lists
 - [ ] A  SAT  solver
 - [ ] From  a  Spectre  to  a  Tree
